@@ -1,4 +1,5 @@
 import React from "react";
+import "./LinkedList.css";
 
 const LinkList = (props) => {
   console.log(props);
